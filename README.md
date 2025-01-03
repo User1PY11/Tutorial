@@ -1,5 +1,5 @@
 # Tutorial
-Klicke auf das Github Logo oben rechts, um auf die Startseite zu gelangen. Dort siehst du einen Button "py11". Dies ist unser Repository.
+Klicke auf das Github Logo oben rechts, um auf die Startseite zu gelangen. Dort siehst du links einen Button "[username]/py11". Dies ist unser Repository.
 Um den Code Herunterzuladen, drücke auf den Button: Code und Drücke auf Download .zip oder drücke auf folgenden Button:
 
 
